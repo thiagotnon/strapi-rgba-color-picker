@@ -28,13 +28,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 'lts/*'
-          cache: 'yarn'                    # ativa cache automático do Yarn
+          cache: 'yarn'
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
       - name: Verify the integrity of provenance attestations and registry signatures
-        run: yarn npm audit --level high   # equivalente ao `npm audit signatures`
+        run: yarn verify
 
       - name: Release
         env:
