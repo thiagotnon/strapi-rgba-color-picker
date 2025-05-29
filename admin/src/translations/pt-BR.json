@@ -1,0 +1,21 @@
+{
+  "rgba-color-picker.plugin.name": "Seletor de Cores RGBA",
+  "rgba-color-picker.homepage.welcome": "Bem-vindo ao {pluginName}",
+  "rgba-color-picker.homepage.description": "Selecione e armazene cores nos formatos RGBA, RGB, HSL ou HEX.",
+  "rgba-color-picker.homepage.about.title": "Sobre este plugin",
+  "rgba-color-picker.homepage.about.description": "O plugin {pluginName} adiciona um campo personalizado ao painel de administração do Strapi, permitindo que os usuários escolham e armazenem cores em vários formatos:",
+  "rgba-color-picker.homepage.rgb": "RGB — rgb(255, 99, 71)",
+  "rgba-color-picker.homepage.rgba": "RGBA — rgba(255, 99, 71, 0.5)",
+  "rgba-color-picker.homepage.hex": "HEX — #FF6347",
+  "rgba-color-picker.homepage.hsl": "HSL — hsl(9, 100%, 64%)",
+  "rgba-color-picker.homepage.howToUse.title": "Como usar",
+  "rgba-color-picker.homepage.howToUse.description": "No construtor de tipos de conteúdo, adicione um novo campo e selecione {pluginName}. Em seguida, escolha o formato de cor preferido nas configurações do campo.",
+  "rgba-color-picker.field.label": "Seletor de Cor",
+  "rgba-color-picker.field.format.placeholder": "Formato da cor",
+  "rgba-color-picker.field.color.label": "Cor",
+  "rgba-color-picker.field.alpha.label": "Transparência ({percentage}%)",
+  "rgba-color-picker.field.manual.label": "Valor manual ({format})",
+  "rgba-color-picker.field.manual.error": "Formato inválido",
+  "rgba-color-picker.field.manual.hint": "Você pode colar valores como rgba(...), #hex ou hsla(...)",
+  "rgba-color-picker.field.preview.label": "Pré-visualização"
+}

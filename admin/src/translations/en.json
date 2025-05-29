@@ -1,0 +1,21 @@
+{
+  "rgba-color-picker.plugin.name": "RGBA Color Picker",
+  "rgba-color-picker.homepage.welcome": "Welcome to {pluginName}",
+  "rgba-color-picker.homepage.description": "Select and store colors using RGBA, RGB, HEX or HSL format.",
+  "rgba-color-picker.homepage.about.title": "About this plugin",
+  "rgba-color-picker.homepage.about.description": "The {pluginName} plugin adds a custom field to the Strapi admin panel, allowing users to choose and store colors in multiple formats:",
+  "rgba-color-picker.homepage.rgb": "RGB — rgb(255, 99, 71)",
+  "rgba-color-picker.homepage.rgba": "RGBA — rgba(255, 99, 71, 0.5)",
+  "rgba-color-picker.homepage.hex": "HEX — #FF6347",
+  "rgba-color-picker.homepage.hsl": "HSL — hsl(9, 100%, 64%)",
+  "rgba-color-picker.homepage.howToUse.title": "How to use",
+  "rgba-color-picker.homepage.howToUse.description": "In the content-type builder, add a new field and select {pluginName}. Then choose your preferred color format in the field settings.",
+  "rgba-color-picker.field.label": "Color Picker",
+  "rgba-color-picker.field.format.placeholder": "Color format",
+  "rgba-color-picker.field.color.label": "Color",
+  "rgba-color-picker.field.alpha.label": "Transparency ({percentage}%)",
+  "rgba-color-picker.field.manual.label": "Manual input ({format})",
+  "rgba-color-picker.field.manual.error": "Invalid format",
+  "rgba-color-picker.field.manual.hint": "You can paste values like rgba(...), #hex or hsla(...)",
+  "rgba-color-picker.field.preview.label": "Preview"
+}
