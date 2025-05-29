@@ -11,7 +11,7 @@
 ## 📦 Installation
 
 ```bash
-npm install strapi-rgba-color-picker
+yarn add rgba-color-picker
 ```
 
 Then enable it in your `/strapi/config/plugins.ts`:
